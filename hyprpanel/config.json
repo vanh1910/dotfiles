@@ -1,0 +1,6 @@
+{
+  "bar.customModules.storage.paths": [
+    "/"
+  ],
+  "menus.clock.time.hideSeconds": false
+}
